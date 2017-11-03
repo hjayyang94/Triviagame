@@ -1,0 +1,28 @@
+
+body{
+    align-content: center;
+    background-color: rgb(65, 65, 65);
+    color: white;
+    text-align: center;
+    margin: auto;
+    vertical-align: center;
+}
+
+#contentHeader{
+    font-size: 18px;
+}
+
+#contentBody{
+    font-size: 30px;
+}
+
+.questionbox{
+    border-style: solid;
+    border-color: white;
+    height: 150px;
+    padding-top:55px;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
